@@ -1,4 +1,5 @@
 ,Game_ID,away_team,bet_format,home_team,point_spread_away,point_spread_home,price_away,price_home,site_title
+<<<<<<< HEAD
 0,9a3671efa5263190d3406bd815a62ef7,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,-102.0,-116.0,FanDuel
 1,9a3671efa5263190d3406bd815a62ef7,Boston Celtics,spreads,Brooklyn Nets,1.0,-1.0,-110.0,-110.0,FanDuel
 2,9a3671efa5263190d3406bd815a62ef7,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,-105.0,-114.0,Unibet
@@ -310,3 +311,319 @@
 308,aca457aec878152b9ae679114358ef73,Denver Nuggets,spreads,Golden State Warriors,9.0,-9.0,-110.0,-110.0,Unibet
 309,aca457aec878152b9ae679114358ef73,Denver Nuggets,h2h,Golden State Warriors,0.0,0.0,310.0,-400.0,PointsBet (US)
 310,aca457aec878152b9ae679114358ef73,Denver Nuggets,spreads,Golden State Warriors,9.0,-9.0,-110.0,-110.0,PointsBet (US)
+=======
+0,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,104.0,-122.0,FanDuel
+1,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,1.5,-1.5,-108.0,-112.0,FanDuel
+2,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,104.0,-125.0,BetOnline.ag
+3,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-114.0,-108.0,BetOnline.ag
+4,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-125.0,LowVig.ag
+5,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-108.0,-102.0,LowVig.ag
+6,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,112.0,-135.0,WynnBET
+7,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-108.0,-108.0,WynnBET
+8,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,110.0,-130.0,DraftKings
+9,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-110.0,-110.0,DraftKings
+10,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-139.0,FOX Bet
+11,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-110.0,-110.0,FOX Bet
+12,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,100.0,-121.0,PointsBet (US)
+13,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-115.0,-105.0,PointsBet (US)
+14,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-125.0,William Hill (US)
+15,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,1.5,-1.5,-110.0,-110.0,William Hill (US)
+16,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,100.0,-120.0,BetMGM
+17,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,1.5,-1.5,-110.0,-110.0,BetMGM
+18,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-125.0,GTbets
+19,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-109.0,-109.0,GTbets
+20,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-124.0,BetRivers
+21,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,1.5,-1.5,-109.0,-113.0,BetRivers
+22,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-124.0,TwinSpires
+23,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,1.5,-1.5,-109.0,-113.0,TwinSpires
+24,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-123.0,Unibet
+25,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,1.5,-1.5,-109.0,-112.0,Unibet
+26,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-124.0,SugarHouse
+27,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,1.5,-1.5,-109.0,-113.0,SugarHouse
+28,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-124.0,Barstool Sportsbook
+29,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,1.5,-1.5,-109.0,-113.0,Barstool Sportsbook
+30,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-125.0,BetUS
+31,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-110.0,-110.0,BetUS
+32,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,110.0,-130.0,Bovada
+33,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-110.0,-110.0,Bovada
+34,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,116.0,-119.0,Betfair
+35,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h_lay,Atlanta Hawks,0.0,0.0,120.0,-116.0,Betfair
+36,d33175375c539f73997dc63c4382e74e,Miami Heat,h2h,Atlanta Hawks,0.0,0.0,105.0,-125.0,MyBookie.ag
+37,d33175375c539f73997dc63c4382e74e,Miami Heat,spreads,Atlanta Hawks,2.0,-2.0,-115.0,-105.0,MyBookie.ag
+38,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,125.0,-145.0,DraftKings
+39,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,3.0,-3.0,-115.0,-105.0,DraftKings
+40,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,120.0,-154.0,FOX Bet
+41,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,3.0,-3.0,-110.0,-110.0,FOX Bet
+42,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,120.0,-145.0,BetMGM
+43,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-110.0,-110.0,BetMGM
+44,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,130.0,-154.0,FanDuel
+45,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,3.0,-3.0,-110.0,-110.0,FanDuel
+46,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,118.0,-141.0,Unibet
+47,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-109.0,-111.0,Unibet
+48,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,118.0,-141.0,Barstool Sportsbook
+49,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-109.0,-112.0,Barstool Sportsbook
+50,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,118.0,-141.0,BetRivers
+51,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-109.0,-112.0,BetRivers
+52,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,118.0,-141.0,TwinSpires
+53,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-109.0,-112.0,TwinSpires
+54,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,118.0,-141.0,SugarHouse
+55,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-109.0,-112.0,SugarHouse
+56,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,134.0,-137.0,Betfair
+57,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h_lay,Chicago Bulls,0.0,0.0,138.0,-135.0,Betfair
+58,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,130.0,-150.0,LowVig.ag
+59,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,100.0,-110.0,LowVig.ag
+60,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,129.0,-152.0,BetOnline.ag
+61,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-105.0,-115.0,BetOnline.ag
+62,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,125.0,-145.0,William Hill (US)
+63,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-110.0,-110.0,William Hill (US)
+64,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,125.0,-145.0,GTbets
+65,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-109.0,-109.0,GTbets
+66,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,130.0,-150.0,Bovada
+67,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,3.0,-3.0,-115.0,-105.0,Bovada
+68,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,125.0,-149.0,WynnBET
+69,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-108.0,-108.0,WynnBET
+70,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,125.0,-145.0,MyBookie.ag
+71,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,3.0,-3.0,-115.0,-105.0,MyBookie.ag
+72,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,125.0,-145.0,BetUS
+73,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,2.5,-2.5,-110.0,-110.0,BetUS
+74,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,130.0,-150.0,Intertops
+75,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,3.0,-3.0,-110.0,-110.0,Intertops
+76,3da102746320bce14827087c0e745b06,Milwaukee Bucks,h2h,Chicago Bulls,0.0,0.0,120.0,-140.0,PointsBet (US)
+77,3da102746320bce14827087c0e745b06,Milwaukee Bucks,spreads,Chicago Bulls,3.0,-3.0,-110.0,-110.0,PointsBet (US)
+78,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,115.0,-135.0,William Hill (US)
+79,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.0,-2.0,-110.0,-110.0,William Hill (US)
+80,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,124.0,-146.0,FanDuel
+81,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-110.0,-110.0,FanDuel
+82,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,115.0,-141.0,WynnBET
+83,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.0,-2.0,-108.0,-108.0,WynnBET
+84,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,115.0,-135.0,Intertops
+85,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.0,-2.0,-105.0,-115.0,Intertops
+86,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,110.0,-143.0,FOX Bet
+87,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-110.0,-110.0,FOX Bet
+88,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,115.0,-135.0,BetUS
+89,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-110.0,-110.0,BetUS
+90,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,120.0,-140.0,DraftKings
+91,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-115.0,-105.0,DraftKings
+92,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,118.0,-139.0,BetOnline.ag
+93,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.0,-2.0,-105.0,-115.0,BetOnline.ag
+94,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,110.0,-135.0,BetMGM
+95,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-115.0,-105.0,BetMGM
+96,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,120.0,-140.0,Bovada
+97,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-110.0,-110.0,Bovada
+98,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,115.0,-135.0,GTbets
+99,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.0,-2.0,-109.0,-109.0,GTbets
+100,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,118.0,-138.0,LowVig.ag
+101,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.0,-2.0,100.0,-110.0,LowVig.ag
+102,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,120.0,-140.0,MyBookie.ag
+103,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-105.0,-115.0,MyBookie.ag
+104,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,126.0,-128.0,Betfair
+105,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h_lay,New Orleans Pelicans,0.0,0.0,130.0,-127.0,Betfair
+106,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,125.0,-145.0,PointsBet (US)
+107,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,3.5,-3.5,-110.0,-110.0,PointsBet (US)
+108,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,110.0,-132.0,SugarHouse
+109,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-113.0,-108.0,SugarHouse
+110,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,110.0,-132.0,Barstool Sportsbook
+111,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-113.0,-108.0,Barstool Sportsbook
+112,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,110.0,-132.0,TwinSpires
+113,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-113.0,-108.0,TwinSpires
+114,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,110.0,-132.0,Unibet
+115,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-112.0,-108.0,Unibet
+116,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,h2h,New Orleans Pelicans,0.0,0.0,110.0,-132.0,BetRivers
+117,f9513b80a2533875a0d938447550ed0b,Phoenix Suns,spreads,New Orleans Pelicans,2.5,-2.5,-113.0,-108.0,BetRivers
+118,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-150.0,130.0,William Hill (US)
+119,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-110.0,-110.0,William Hill (US)
+120,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-154.0,120.0,FOX Bet
+121,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-110.0,-110.0,FOX Bet
+122,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-156.0,135.0,BetOnline.ag
+123,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-115.0,-105.0,BetOnline.ag
+124,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-146.0,124.0,FanDuel
+125,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-110.0,-110.0,FanDuel
+126,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-150.0,130.0,DraftKings
+127,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-110.0,-110.0,DraftKings
+128,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-150.0,130.0,Intertops
+129,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-110.0,-110.0,Intertops
+130,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-155.0,130.0,MyBookie.ag
+131,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-110.0,-110.0,MyBookie.ag
+132,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-149.0,125.0,WynnBET
+133,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-108.0,-108.0,WynnBET
+134,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-150.0,130.0,GTbets
+135,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-109.0,-109.0,GTbets
+136,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-155.0,135.0,LowVig.ag
+137,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-110.0,100.0,LowVig.ag
+138,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-155.0,135.0,BetUS
+139,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-110.0,-110.0,BetUS
+140,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-155.0,130.0,BetMGM
+141,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.5,3.5,-105.0,-115.0,BetMGM
+142,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-145.0,125.0,PointsBet (US)
+143,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.5,3.5,-110.0,-110.0,PointsBet (US)
+144,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-150.0,125.0,Barstool Sportsbook
+145,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-112.0,-109.0,Barstool Sportsbook
+146,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-150.0,125.0,BetRivers
+147,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-112.0,-109.0,BetRivers
+148,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-150.0,125.0,TwinSpires
+149,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-112.0,-109.0,TwinSpires
+150,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-150.0,125.0,SugarHouse
+151,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-112.0,-109.0,SugarHouse
+152,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-137.0,134.0,Betfair
+153,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h_lay,Toronto Raptors,0.0,0.0,-135.0,138.0,Betfair
+154,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,h2h,Toronto Raptors,0.0,0.0,-149.0,125.0,Unibet
+155,200f24fa228c33d3bb5bf2034f5267c5,Philadelphia 76ers,spreads,Toronto Raptors,-3.0,3.0,-111.0,-109.0,Unibet
+156,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,162.0,-194.0,FanDuel
+157,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,4.5,-4.5,-108.0,-112.0,FanDuel
+158,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,165.0,-210.0,TwinSpires
+159,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-112.0,-110.0,TwinSpires
+160,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,165.0,-208.0,Unibet
+161,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-111.0,-110.0,Unibet
+162,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,165.0,-210.0,BetRivers
+163,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-112.0,-110.0,BetRivers
+164,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,165.0,-210.0,Barstool Sportsbook
+165,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-112.0,-110.0,Barstool Sportsbook
+166,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,165.0,-210.0,SugarHouse
+167,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-112.0,-110.0,SugarHouse
+168,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,165.0,-227.0,FOX Bet
+169,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.5,-5.5,-118.0,100.0,FOX Bet
+170,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,155.0,-190.0,BetMGM
+171,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,4.5,-4.5,-105.0,-115.0,BetMGM
+172,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,165.0,-200.0,PointsBet (US)
+173,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-110.0,-110.0,PointsBet (US)
+174,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,192.0,-200.0,Betfair
+175,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h_lay,Utah Jazz,0.0,0.0,200.0,-192.0,Betfair
+176,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,170.0,-200.0,DraftKings
+177,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-110.0,-110.0,DraftKings
+178,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,175.0,-205.0,LowVig.ag
+179,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-105.0,-105.0,LowVig.ag
+180,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,175.0,-208.0,BetOnline.ag
+181,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-111.0,-111.0,BetOnline.ag
+182,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,175.0,-210.0,William Hill (US)
+183,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-110.0,-110.0,William Hill (US)
+184,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,180.0,-210.0,GTbets
+185,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-109.0,-109.0,GTbets
+186,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,175.0,-210.0,BetUS
+187,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-110.0,-110.0,BetUS
+188,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,170.0,-208.0,WynnBET
+189,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-108.0,-108.0,WynnBET
+190,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,175.0,-205.0,Intertops
+191,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-110.0,-110.0,Intertops
+192,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,h2h,Utah Jazz,0.0,0.0,175.0,-210.0,MyBookie.ag
+193,2cfdeae14f966c7ca369170336e289b3,Dallas Mavericks,spreads,Utah Jazz,5.0,-5.0,-110.0,-110.0,MyBookie.ag
+194,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,135.0,-155.0,DraftKings
+195,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-110.0,-110.0,DraftKings
+196,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,132.0,-158.0,FanDuel
+197,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-108.0,-112.0,FanDuel
+198,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,135.0,-155.0,LowVig.ag
+199,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,100.0,-110.0,LowVig.ag
+200,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,135.0,-156.0,BetOnline.ag
+201,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-105.0,-115.0,BetOnline.ag
+202,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,145.0,-170.0,William Hill (US)
+203,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-110.0,-110.0,William Hill (US)
+204,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,127.0,-154.0,WynnBET
+205,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-112.0,-104.0,WynnBET
+206,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,125.0,-161.0,FOX Bet
+207,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.5,-3.5,-110.0,-110.0,FOX Bet
+208,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,130.0,-155.0,BetMGM
+209,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,2.5,-2.5,-105.0,-115.0,BetMGM
+210,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,135.0,-160.0,MyBookie.ag
+211,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-110.0,-110.0,MyBookie.ag
+212,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,135.0,-160.0,Bovada
+213,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,2.5,-2.5,-110.0,-110.0,Bovada
+214,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,140.0,-160.0,GTbets
+215,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-109.0,-109.0,GTbets
+216,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,135.0,-155.0,BetUS
+217,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-110.0,-110.0,BetUS
+218,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,130.0,-150.0,Intertops
+219,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-110.0,-110.0,Intertops
+220,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,135.0,-160.0,PointsBet (US)
+221,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-110.0,-110.0,PointsBet (US)
+222,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,128.0,-157.0,Barstool Sportsbook
+223,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-112.0,-110.0,Barstool Sportsbook
+224,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,128.0,-157.0,BetRivers
+225,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-112.0,-110.0,BetRivers
+226,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,128.0,-157.0,TwinSpires
+227,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-112.0,-110.0,TwinSpires
+228,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,128.0,-157.0,SugarHouse
+229,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-112.0,-110.0,SugarHouse
+230,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,138.0,-149.0,Betfair
+231,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h_lay,Brooklyn Nets,0.0,0.0,150.0,-137.0,Betfair
+232,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,h2h,Brooklyn Nets,0.0,0.0,128.0,-156.0,Unibet
+233,d80ec53b49c8870b7804b37cdb7891e6,Boston Celtics,spreads,Brooklyn Nets,3.0,-3.0,-111.0,-110.0,Unibet
+234,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-154.0,130.0,FanDuel
+235,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-110.0,FanDuel
+236,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-150.0,130.0,DraftKings
+237,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-110.0,DraftKings
+238,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-150.0,130.0,William Hill (US)
+239,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-110.0,William Hill (US)
+240,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-149.0,125.0,WynnBET
+241,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-108.0,-108.0,WynnBET
+242,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-150.0,125.0,BetMGM
+243,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-2.5,2.5,-115.0,-105.0,BetMGM
+244,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-152.0,129.0,BetOnline.ag
+245,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-112.0,-109.0,BetOnline.ag
+246,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-150.0,130.0,LowVig.ag
+247,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-107.0,-103.0,LowVig.ag
+248,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-150.0,130.0,GTbets
+249,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-109.0,-109.0,GTbets
+250,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-155.0,135.0,Intertops
+251,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-115.0,-105.0,Intertops
+252,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-145.0,125.0,Bovada
+253,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-110.0,Bovada
+254,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-148.0,123.0,BetRivers
+255,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-112.0,BetRivers
+256,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-147.0,123.0,Unibet
+257,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-111.0,Unibet
+258,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-148.0,123.0,SugarHouse
+259,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-112.0,SugarHouse
+260,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-148.0,123.0,Barstool Sportsbook
+261,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-112.0,Barstool Sportsbook
+262,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-148.0,123.0,TwinSpires
+263,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-112.0,TwinSpires
+264,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-155.0,130.0,MyBookie.ag
+265,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-110.0,MyBookie.ag
+266,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-150.0,130.0,BetUS
+267,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-110.0,BetUS
+268,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-150.0,130.0,PointsBet (US)
+269,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-110.0,PointsBet (US)
+270,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-145.0,130.0,Betfair
+271,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h_lay,Minnesota Timberwolves,0.0,0.0,-130.0,146.0,Betfair
+272,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,h2h,Minnesota Timberwolves,0.0,0.0,-154.0,120.0,FOX Bet
+273,c2b4bae30386c06e2af60347ac62bb81,Memphis Grizzlies,spreads,Minnesota Timberwolves,-3.0,3.0,-110.0,-110.0,FOX Bet
+274,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,148.0,-176.0,FanDuel
+275,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-110.0,-110.0,FanDuel
+276,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,150.0,-170.0,DraftKings
+277,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-110.0,-110.0,DraftKings
+278,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,150.0,-185.0,BetMGM
+279,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.5,-4.5,-115.0,-105.0,BetMGM
+280,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,155.0,-190.0,TwinSpires
+281,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.5,-4.5,-109.0,-112.0,TwinSpires
+282,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,155.0,-190.0,Barstool Sportsbook
+283,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.5,-4.5,-109.0,-112.0,Barstool Sportsbook
+284,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,155.0,-190.0,SugarHouse
+285,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.5,-4.5,-109.0,-112.0,SugarHouse
+286,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,155.0,-190.0,BetRivers
+287,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.5,-4.5,-109.0,-112.0,BetRivers
+288,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,155.0,-189.0,Unibet
+289,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.5,-4.5,-109.0,-111.0,Unibet
+290,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,145.0,-176.0,PointsBet (US)
+291,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-110.0,-110.0,PointsBet (US)
+292,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,154.0,-172.0,Betfair
+293,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h_lay,Denver Nuggets,0.0,0.0,174.0,-154.0,Betfair
+294,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,155.0,-180.0,William Hill (US)
+295,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-110.0,-110.0,William Hill (US)
+296,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,155.0,-189.0,WynnBET
+297,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.5,-4.5,-108.0,-108.0,WynnBET
+298,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,155.0,-180.0,GTbets
+299,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-109.0,-109.0,GTbets
+300,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,155.0,-175.0,LowVig.ag
+301,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,100.0,-110.0,LowVig.ag
+302,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,154.0,-175.0,BetOnline.ag
+303,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-105.0,-115.0,BetOnline.ag
+304,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,160.0,-180.0,BetUS
+305,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-110.0,-110.0,BetUS
+306,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,160.0,-185.0,Bovada
+307,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-105.0,-115.0,Bovada
+308,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,150.0,-180.0,MyBookie.ag
+309,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-110.0,-110.0,MyBookie.ag
+310,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,140.0,-189.0,FOX Bet
+311,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.5,-4.5,-110.0,-110.0,FOX Bet
+312,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,h2h,Denver Nuggets,0.0,0.0,150.0,-170.0,Intertops
+313,508d60249edea7a0d2821f33a9749d7c,Golden State Warriors,spreads,Denver Nuggets,4.0,-4.0,-110.0,-110.0,Intertops
+>>>>>>> draft-of-cluster
